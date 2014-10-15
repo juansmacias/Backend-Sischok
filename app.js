@@ -28,7 +28,7 @@ IncidenteResource.register(app,'/incidentes');
 
 app.get('/',function(req,res)
 {
-   res.send('500')
+   res.send('sisi carible sisi Colombia')
 });
 
 app.listen(process.env.PORT ||3333);

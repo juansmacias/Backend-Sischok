@@ -9,7 +9,7 @@ var restful = require('node-restful');
 var Usuario = require('./app/models/Usuario.js');
 var Incidente = require('./app/models/Incidente.js');
 var app = express();
-mongoose.connect(process.env.MONGOHQ_URL);
+mongoose.connect("mongodb://juansmacias:juanito11@linus.mongohq.com:10006/test-sischok");
 
 app.use(bodyParser());
 

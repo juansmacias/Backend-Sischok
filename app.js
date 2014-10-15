@@ -9,7 +9,7 @@ var restful = require('node-restful');
 var Usuario = require('./app/models/Usuario.js');
 var Incidente = require('./app/models/Incidente.js');
 var app = express();
-mongoose.connect('mongodb://localhost/test-sischok');
+mongoose.connect(process.env.MONGOHQ_URL);
 
 app.use(bodyParser());
 

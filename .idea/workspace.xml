@@ -23,19 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="44" selection-start="393" selection-end="393" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
+            <state line="19" column="11" selection-start="667" selection-end="667" vertical-scroll-proportion="0.46191248" vertical-offset="0" max-vertical-offset="617">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Incidente.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Incidente.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/Incidente.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="7" selection-start="236" selection-end="242" vertical-scroll-proportion="0.21880065" vertical-offset="0" max-vertical-offset="617">
+            <state line="9" column="7" selection-start="236" selection-end="242" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
               <folding />
             </state>
           </provider>
@@ -61,8 +61,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/app/models/Usuario.js" />
-        <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/app/models/Incidente.js" />
+        <option value="$PROJECT_DIR$/app.js" />
       </list>
     </option>
   </component>
@@ -275,16 +275,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
+    <entry file="file://$PROJECT_DIR$/app/models/Incidente.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="44" selection-start="393" selection-end="393" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
+        <state line="9" column="7" selection-start="236" selection-end="242" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/Incidente.js">
+    <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="7" selection-start="236" selection-end="242" vertical-scroll-proportion="0.21880065" vertical-offset="0" max-vertical-offset="617">
+        <state line="19" column="11" selection-start="667" selection-end="667" vertical-scroll-proportion="0.46191248" vertical-offset="0" max-vertical-offset="617">
           <folding />
         </state>
       </provider>

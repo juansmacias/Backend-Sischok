@@ -20,10 +20,10 @@ app.all('*', function(req, res, next) {
     next();
 });
 
-var UsuarioResource = restful.model('usuario',Usuario).methods(['get','post','put','delete']);
+var UsuarioResource = restful.model('usuario',Usuario).methods(['get','post']);
 UsuarioResource.register(app,'/usuarios');
 
-var IncidenteResource = restful.model('incidente',Incidente).methods(['get','post','put','delete']);
+var IncidenteResource = restful.model('incidente',Incidente).methods(['get','post']);
 IncidenteResource.register(app,'/incidentes');
 
 app.get('/',function(req,res)

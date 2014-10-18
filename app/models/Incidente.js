@@ -9,7 +9,7 @@ var Incidente = mongoose.Schema({
  fechaCreacion:{type:Date},
  titulo:String,
  gravedad:{type:Number, enum:[1,2,3,4,5]},
- usuario_Id:{type:mongoose.Schema.Types.ObjectId, ref:'Usuario'},
+ usuarioCreacion:String,
  zona:Number
 });
 
